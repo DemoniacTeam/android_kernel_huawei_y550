@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/wcnss/wcnsscore.o := /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/net/wireless/wcnss/wcnsscore.o drivers/net/wireless/wcnss/wcnss_wlan.o drivers/net/wireless/wcnss/qcomwlan_secif.o drivers/net/wireless/wcnss/wcnss_vreg.o 

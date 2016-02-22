@@ -1,0 +1,1 @@
+cmd_drivers/hw_fac_info/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/hw_fac_info/built-in.o drivers/hw_fac_info/hw_fac_info.o drivers/hw_fac_info/config_interface.o 

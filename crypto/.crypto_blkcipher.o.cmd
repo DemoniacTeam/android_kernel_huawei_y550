@@ -1,0 +1,1 @@
+cmd_crypto/crypto_blkcipher.o := /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o crypto/crypto_blkcipher.o crypto/ablkcipher.o crypto/blkcipher.o 

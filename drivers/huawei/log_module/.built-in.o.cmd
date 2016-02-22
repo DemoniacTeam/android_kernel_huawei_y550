@@ -1,0 +1,1 @@
+cmd_drivers/huawei/log_module/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/huawei/log_module/built-in.o drivers/huawei/log_module/log_module.o drivers/huawei/log_module/log_module_debug_mask_example.o drivers/huawei/log_module/log_module_dynamic_debug_example.o 

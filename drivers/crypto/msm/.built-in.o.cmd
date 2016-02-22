@@ -1,0 +1,1 @@
+cmd_drivers/crypto/msm/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/crypto/msm/built-in.o drivers/crypto/msm/qcedev.o drivers/crypto/msm/qce50.o 

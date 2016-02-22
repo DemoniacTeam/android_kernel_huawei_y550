@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/synaptics_dsx/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/input/touchscreen/synaptics_dsx/built-in.o drivers/input/touchscreen/synaptics_dsx/synaptics_dsx_i2c.o 

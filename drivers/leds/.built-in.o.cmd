@@ -1,0 +1,1 @@
+cmd_drivers/leds/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/led-triggers.o drivers/leds/leds-qpnp.o drivers/leds/leds-gpio.o drivers/leds/leds-msm-gpio-flash.o drivers/leds/trigger/built-in.o 

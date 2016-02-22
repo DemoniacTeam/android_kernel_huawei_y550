@@ -1,0 +1,1 @@
+cmd_drivers/media/mmc/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/media/mmc/built-in.o drivers/media/mmc/siano/built-in.o 

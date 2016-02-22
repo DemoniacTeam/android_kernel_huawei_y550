@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-picolcd.o := /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/hid/hid-picolcd.o drivers/hid/hid-picolcd_core.o drivers/hid/hid-picolcd_debugfs.o 

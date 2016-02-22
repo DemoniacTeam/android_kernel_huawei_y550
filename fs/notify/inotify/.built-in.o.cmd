@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o fs/notify/inotify/built-in.o fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o 

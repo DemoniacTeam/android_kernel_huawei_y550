@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/i2c/busses/built-in.o drivers/i2c/busses/i2c-msm-v2.o 

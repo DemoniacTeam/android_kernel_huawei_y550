@@ -1,0 +1,5 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko
+kernel/drivers/misc/hw_kstate/hw_kstate.ko
+kernel/drivers/misc/hw_kstate/hw_packetmonitor.ko
+kernel/drivers/misc/hw_kstate/hw_kcollect.ko

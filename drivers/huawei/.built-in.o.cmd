@@ -1,0 +1,1 @@
+cmd_drivers/huawei/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/huawei/built-in.o drivers/huawei/log_module/built-in.o drivers/huawei/store_exception/built-in.o 

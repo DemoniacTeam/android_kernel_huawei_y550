@@ -1,0 +1,3 @@
+kernel/drivers/thermal/thermal_sys.ko
+kernel/drivers/thermal/msm8974-tsens.ko
+kernel/drivers/thermal/qpnp-adc-tm.ko

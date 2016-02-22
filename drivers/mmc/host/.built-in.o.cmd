@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/mmc/host/built-in.o drivers/mmc/host/sdhci.o drivers/mmc/host/sdhci-pltfm.o drivers/mmc/host/sdhci-msm.o 

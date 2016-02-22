@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/libphy.o := /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/net/phy/libphy.o drivers/net/phy/phy.o drivers/net/phy/phy_device.o drivers/net/phy/mdio_bus.o 

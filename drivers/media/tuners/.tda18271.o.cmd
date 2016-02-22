@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/tda18271.o := /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/media/tuners/tda18271.o drivers/media/tuners/tda18271-maps.o drivers/media/tuners/tda18271-common.o drivers/media/tuners/tda18271-fe.o 

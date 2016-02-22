@@ -1,0 +1,1 @@
+cmd_drivers/mmc/card/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/mmc/card/built-in.o drivers/mmc/card/mmc_block.o drivers/mmc/card/ffu.o 

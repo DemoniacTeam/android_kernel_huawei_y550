@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-wiimote.o := /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/hid/hid-wiimote.o drivers/hid/hid-wiimote-core.o drivers/hid/hid-wiimote-ext.o drivers/hid/hid-wiimote-debug.o 

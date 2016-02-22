@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/built-in.o :=  /home/hb72k/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-ld -EL    -r -o drivers/media/i2c/built-in.o drivers/media/i2c/soc_camera/built-in.o 
